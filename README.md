@@ -14,6 +14,11 @@
   <h3> ⚔ Skill </h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <br>
+
+  #
+    
+  <h3> 🪪 License and Certificate </h3>
+    <a href="https://www.credly.com/badges/618f41a8-d355-4b14-b110-83aaaed8265f/public_url"><img src="https://github.com/TaeGyunHong/TaeGyunHong/assets/138078447/ad7ab77c-a856-4c98-961a-fab4956b66b7" alt="red-hat-certified-system-administrator-rhcsa" width="100" height="100"/></a>
   
   #
   
