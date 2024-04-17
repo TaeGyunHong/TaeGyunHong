@@ -30,7 +30,15 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br>
-  
+
+## 🏆 Prize
+
+| 날짜 | 대회명 | 수상 | 주최, 주관, 후원 |
+| - | - | :-: | - |
+|  2023.11 | [프로그래밍 경진대회] | 장려상 | GWNU CSE |
+|  2022.11 | [프로그래밍 경진대회] | 장려상 | GWNU CSE |
+
+
   #
 </div>
 <div align="center">
