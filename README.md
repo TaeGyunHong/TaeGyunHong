@@ -20,6 +20,7 @@
     
   <h3> 🪪 License and Certificate </h3>
     <a href="https://www.credly.com/badges/618f41a8-d355-4b14-b110-83aaaed8265f/public_url"><img src="https://github.com/TaeGyunHong/TaeGyunHong/assets/138078447/ad7ab77c-a856-4c98-961a-fab4956b66b7" alt="red-hat-certified-system-administrator-rhcsa" width="100" height="100"/></a>
+    <a href="https://https://www.credly.com/badges/91c294b7-2fcd-418f-8f89-0a187aac16e7/public_url"><img src="https://github.com/TaeGyunHong/TaeGyunHong/issues/2#issue-2310739766" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
   
   #
   
