@@ -60,5 +60,4 @@
   <h3> ⛏ Stats </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=TaeGyunHong&show_icons=true&theme=buefy" alt="TaeGyunHong's GitHub stats"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeGyunHong&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" alt="Top Languages"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeGyunHong&theme=buefy&hide_border=true" alt="TaeGyunHong's Streak"/>
 </div>
