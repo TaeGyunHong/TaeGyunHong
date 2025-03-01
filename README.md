@@ -30,6 +30,7 @@
   #
   
   <h3> 🪪 License and Certificate </h3>
+    <a href="https://github.com/TaeGyunHong/TaeGyunHong/assets/02daa17d-6e95-4d93-992a-b7ae8d4f301c"><img src="https://github.com/TaeGyunHong/TaeGyunHong/assets/42c42f7f-6023-4771-b437-588a7a60a5a7" alt="Information Processing Engineer" width="100" height="100"/></a>
     <a href="https://www.credly.com/badges/618f41a8-d355-4b14-b110-83aaaed8265f/public_url"><img src="https://github.com/TaeGyunHong/TaeGyunHong/assets/138078447/ad7ab77c-a856-4c98-961a-fab4956b66b7" alt="red-hat-certified-system-administrator-rhcsa" width="100" height="100"/></a>
     <a href="https://www.credly.com/badges/91c294b7-2fcd-418f-8f89-0a187aac16e7/public_url"><img src="https://github.com/TaeGyunHong/TaeGyunHong/assets/138078447/8fdfd68f-09f3-4300-8bfe-2b90cb2e25bf" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
     <a href="https://www.credly.com/badges/79035323-a5e3-4aad-8a87-0c290d886101/public_url"><img src="https://github.com/user-attachments/assets/b49ee268-6bf0-4cff-bacf-018ea17b84fa" alt="microsoft-certified-azure-fundamentals" width="100" height="100"/></a>
